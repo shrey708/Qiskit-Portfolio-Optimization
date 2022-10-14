@@ -22,9 +22,6 @@ import pandas_datareader.data as web
 from qiskit_finance.applications.optimization import PortfolioDiversification
 #%matplotlib inline
 
-
-
-#Define assets and store them globally
 assets = []
 # number of elements as input
 n = int(input("Enter number of elements : "))
