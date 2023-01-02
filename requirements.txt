@@ -1,0 +1,16 @@
+altair==4.2.0
+cvxpy==1.2.1
+hydralit==1.0.14
+matplotlib==3.5.3
+numpy==1.23.2
+pandas==1.4.4
+pandas_datareader==0.10.0
+python_dateutil==2.8.2
+qiskit==0.39.0
+qiskit_finance==0.3.4
+qiskit_ibmq_provider==0.19.2
+qiskit_optimization==0.4.0
+scipy==1.9.1
+st_btn_select==0.1.2
+streamlit==1.13.0
+yfinance==0.1.74
